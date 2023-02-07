@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WHO9fGF1smw/jZELEImLq5FOvnsuafRWbSPkFl8B7kpnjlL2LBnNAr9mrLAzmsHQGNXaCNTPRXfkkp6JGvnHwQ==",
+  "success": true,
+  "projectFilePath": "D:\\seprian\\learning c#\\speech-to-text\\speech-to-text\\speech-to-text.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.speech\\7.0.0\\system.speech.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
